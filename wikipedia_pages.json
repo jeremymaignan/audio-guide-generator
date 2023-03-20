@@ -1,0 +1,14 @@
+{
+    "paris": {
+        "Palace of Versailles": "https://en.wikipedia.org/wiki/Palace_of_Versailles",
+        "Louvre": "https://en.wikipedia.org/wiki/Louvre",
+        "Notre-Dame de Paris": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+        "Musee dOrsay": "https://en.wikipedia.org/wiki/Mus%C3%A9e_d'Orsay",
+        "Champs Elysees": "https://en.wikipedia.org/wiki/Champs-%C3%89lys%C3%A9es",
+        "Les Invalides": "https://en.wikipedia.org/wiki/Les_Invalides",
+        "Disneyland Paris": "https://en.wikipedia.org/wiki/Disneyland_Paris",
+        "Eiffel Tower": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+        "Arc de Triomphe": "https://en.wikipedia.org/wiki/Arc_de_Triomphe",
+        "Centre_Pompidou": "https://en.wikipedia.org/wiki/Centre_Pompidou"
+    }
+}
